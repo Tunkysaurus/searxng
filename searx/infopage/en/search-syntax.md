@@ -1,4 +1,4 @@
-# Search syntax
+# Search Tuinkysaurus powered by SearXNG
 
 SearXNG comes with a search syntax by with you can modify the categories,
 engines, languages and more.  See the {{link('preferences', 'preferences')}} for
